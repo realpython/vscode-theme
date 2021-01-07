@@ -1,0 +1,21 @@
+{
+    "name": "real-python-color-theme",
+    "displayName": "Real Python Color Theme",
+    "description": "A ligth color theme that uses the colors we use on the site: https://realpython.com",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Real Python Color Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Real Python Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
